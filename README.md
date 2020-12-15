@@ -9,7 +9,7 @@ My first Deep Learning project, I used Keras and TensorFlow to train and evaluat
 
 ## Source Files and Their Roles
 
-`pima_diabetes_keras_model.py` is 
+`pima_diabetes_keras_model.py` is driver program that loads the dataset, defines a Keras model, compiles the Keras model, fits the Keras model on the dataset, evaluates the Keras model, and finally makes class predictions with the model on the already seen dataset.
 
 `pima-natives-diabetes.csv` is
 
