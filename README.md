@@ -35,4 +35,4 @@ The dataset features subjects in rows and each variable in the columns, includin
 **EXECUTION:**
 > python pima_diabetes_keras_model.py
 
-Explanation
+The default `tensorflow` pip package contains both CPU and GPU versions. The output will produce warnings if the correct CUDA version is not found and will fall back on a CPU-only mode. If you would also like to use GPU, please correctly download and install the necessary CUDA libraries. The output will show each epoch and its corresponding loss and accuracy factors. A final accuracy of the model on the dataset will be printed. Lastly, a the input data, predicted class and expected class for the first five examples in the dataset are printed. This shows a comprehensive picture of accuracy of the model. 
