@@ -40,6 +40,7 @@ The default `tensorflow` pip package contains both CPU and GPU versions. The out
 ***
 
 ## Footnotes
-[1]: One pass through all of the rows in the training dataset.
-[2]: One or more samples considered by the model within an epoch before weights are updated.
+
+[1]: One pass through all of the rows in the training dataset.  
+[2]: One or more samples considered by the model within an epoch before weights are updated.  
 [3]: One epoch is comprised of one or more batches, based on the chosen batch size and the model is fit for many epochs.
