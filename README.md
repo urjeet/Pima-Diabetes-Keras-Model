@@ -21,10 +21,11 @@ My first Deep Learning project, I used Keras and TensorFlow to train and evaluat
 7. Diabetes pedigree function
 8. Age (years)
 
-  The output variable (y) is:
+The output variable (y) is:
   1. Class variable (0 or 1) - 1 denotes positive for diabetes
 
-  The 
+The dataset features subjects in rows and each variable in the columns, including the output variable in the last column. 
+**[Click here for more details regarding the dataset](https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.names)**
 
 ***
 
