@@ -18,7 +18,7 @@ The input variables (x) include:
   3. Diastolic blood pressure (mm Hg)
   4. Triceps skin fold thickness (mm)
   5. 2-Hour serum insulin (mu U/mL)
-  6. Body mass index (weight in kg / (height in m)<sup>2</sup>
+  6. Body mass index (weight in kg / (height in m)<sup>2</sup>)
   7. Diabetes pedigree function
   8. Age (years)
 
