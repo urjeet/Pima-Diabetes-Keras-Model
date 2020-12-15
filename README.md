@@ -16,6 +16,13 @@ My first Deep Learning project, I used Keras and TensorFlow to train and evaluat
 2. Plasma glucose concentration
 3. Diastolic blood pressure (mm Hg)
 4. Triceps skin fold thickness (mm)
+5. 2-Hour serum insulin (mu U/mL)
+6. Body mass index (weight in kg / (height in m)<sup>2</sup>
+7. Diabetes pedigree function
+8. Age (years)
+
+The output variable (y) is:
+1. Class variable (0 or 1) - 1 denotes positive for Diabetes
 
 ***
 
